@@ -1,2 +1,4 @@
 # Ignora archivos .exe 
 *.exe
+# ignorar archivos objeto de c++
+*.o
