@@ -11,6 +11,7 @@ using namespace std;
 
 // inicio de MAIN
 int main(){
+	// variables
    int edad;
 
    edad = 18;
